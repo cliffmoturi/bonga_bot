@@ -1,0 +1,27 @@
+{
+  "name": "bonga_bot",
+  "version": "1.0.0",
+  "description": "Bonga Chat Bot built on Msft Bot Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cliffmoturi/bonga_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "bonga"
+  ],
+  "author": "Cliff Moturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cliffmoturi/bonga_bot/issues"
+  },
+  "homepage": "https://github.com/cliffmoturi/bonga_bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
